@@ -3,7 +3,7 @@
 //  WeatherApp
 //
 //  Created by DCS on 09/07/21.
-//  Copyright © 2021 HRK. All rights reserved.
+//  Copyright © 2021 vishal. All rights reserved.
 //
 
 import UIKit
