@@ -1,10 +1,5 @@
 # WeatherApp
- Simple Weather App
-
-
-
-
-### ImaGestures Contain Functionality
+ Simple Weather App Using Api
 
 
 #### UIElements
@@ -12,23 +7,19 @@
  - UILabel
  - UIButton
  - UIImageView
-
+ - UISearchBar
  
  ## How Weather App Work
 
 
-
-
- - Short Hand Demo
- 
  ![](WeatherApp/output/WeatherApp.gif)
  
 
 #### Step to Installation
  
  - Dawnload The Project
- - Make Folder ImaGestures
+ - Make Folder WeatherApp
  - Paste the Dawnloaded Folder Into It
- - Cut the Image Picker App.xcodeproj file and Paste in ImaGestures
+ - Cut the WeatherApp App.xcodeproj file and Paste in ImaGestures
  
 
