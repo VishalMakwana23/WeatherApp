@@ -21,7 +21,7 @@
 
  - Short Hand Demo
  
- ![](ImaGestures/output/ImaGesture.gif)
+ ![](WeatherApp/output/WeatherApp.gif)
  
 
 #### Step to Installation
